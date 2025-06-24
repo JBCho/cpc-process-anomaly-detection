@@ -12,7 +12,7 @@ CPC(Counter Pressure Casting, 차압주조) 공정은 챔버압력과 용광로�
 제안하는 방법은 일반적인 single-stage method보다 CPC 설비 이상 감지에 높은 성능을 보임
 ![image](https://github.com/user-attachments/assets/3404da6b-df91-487a-aa97-0d6f64002871)
 
-이상 지수 시각화
+이상 지수 시각화 예시
 ![image](https://github.com/user-attachments/assets/8c3af1e4-74c5-4edc-8f45-ea9344adcf35)
 
 
