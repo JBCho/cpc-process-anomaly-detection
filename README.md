@@ -16,10 +16,6 @@ CPC(Counter Pressure Casting, 차압주조) 공정은 챔버압력과 용광로�
 
 
 <h2>파일 설명</h2>
-<li>
-  <item>Preprocessor.ipynb: 데이터 전처리</item>
-  
-  <item>AnomalyDetection.ipynb: AD 모델 정의 및 학습</item>
-  
-  <item>Two-Stage Inference.ipynb: 2-stage AD 추론 및 평가</item>
-</li> 
+- Preprocessor.ipynb: 데이터 전처리
+- AnomalyDetection.ipynb: AD 모델 정의 및 학습
+- Two-Stage Inference.ipynb: 2-stage AD 추론 및 평가
