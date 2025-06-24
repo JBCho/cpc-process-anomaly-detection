@@ -11,5 +11,13 @@ CPC(Counter Pressure Casting, 차압주조) 공정은 챔버압력과 용광로�
 제안하는 방법은 일반적인 single-stage method보다 CPC 설비 이상 감지에 높은 성능을 보임
 ![image](https://github.com/user-attachments/assets/3404da6b-df91-487a-aa97-0d6f64002871)
 
+이상 지수 시각화
+![image](https://github.com/user-attachments/assets/a6f97762-2090-49f2-a321-54c6892acdf6)
+
+
 <h2>파일 설명</h2>
-model.ipynb
+<li>
+  <item>Preprocessor.ipynb: 데이터 전처리</item>
+  <item>AnomalyDetection.ipynb: AD 모델 정의 및 학습</item>
+  <item>Two-Stage Inference.ipynb: 2-stage AD 추론 및 평가</item>
+</li> 
